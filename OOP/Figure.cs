@@ -7,8 +7,8 @@ namespace OOP
 {
     public abstract class Figure
     {
-        public double Length { get; set; }
-        public double Width { get; set; }
+        public double Length { get; set; }  //Приват
+        public double Width { get; set; }   //
         public Figure(double lenght, double width)
         {
             if (lenght > 0 && width > 0)
