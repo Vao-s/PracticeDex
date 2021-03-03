@@ -13,7 +13,7 @@ namespace BoxingAndUnboxing
             Stopwatch stopwatch1 = new Stopwatch(); //класс для подсчета времени выоплнения операций
             Stopwatch stopwatch2 = new Stopwatch();
             Stopwatch stopwatch3 = new Stopwatch();
-            Stopwatch stopwatch4 = new Stopwatch();
+            Stopwatch stopwatch4 = new Stopwatch();   //Сделать 1 Stopwatch
 
             int i = 12345678;
 
